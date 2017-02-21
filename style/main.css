@@ -1,0 +1,17 @@
+#body {
+	background: url(../img/forest.jpeg);
+	background-size: cover;
+}
+
+.time {
+	margin-top: 100px;
+}
+
+.time > button {
+	margin-top: 20px;
+}
+
+#clock {
+	color: #fff;
+	font-family: 'Anton', sans-serif;
+}
